@@ -1,0 +1,33 @@
+/* Styles!!! */
+
+.food{
+    height: auto;
+    width: 500px;
+
+}
+
+h1 {
+    background-color: rgb(100, 20, 20);
+    font-family:'Times New Roman', Times, sans-serif;
+    color: white;
+    font-size: 64px;
+    text-align: center;
+}
+
+body{
+    background-color: rgba(200, 40, 40, 0.5);
+}
+
+h2{
+    font-family:'Times New Roman', Times, sans-serif;
+    color: rgb(60, 5, 5);
+    font-size: 36px;
+    font-weight: bold;
+
+}
+
+li{
+    font-family:'Times New Roman', Times, sans-serif;
+    font-size: 18px;
+    color:black;
+}
